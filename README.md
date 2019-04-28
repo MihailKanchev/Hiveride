@@ -10,7 +10,7 @@ Mihail Kanchev
 266106
 
 Standing at the end of it now, like Frodo did at the top of Mount Doom after throwing the ring , I have a notch of regret at the back
-of my throat. The idea behind this hand-in was to push my personal project into its' implementation phase, combining both personal affairs and school work. Ultimately, like Frodo, I threw away most of the cruicial features, that were dragging me down the mountain, greatly
+of my throat. The idea behind this hand-in was to push my personal project into its' implementation phase, combining both personal affairs and school work. Ultimately, like Frodo, I threw away most of the crucial features, that were dragging me down the mountain, greatly
 underestimating the time I was given. Unfortunately no eagles will come for me.
 
 ![giphy](https://user-images.githubusercontent.com/44975545/56869999-e5d90b00-6a08-11e9-986f-f8ad3d3dfbea.gif)
@@ -21,7 +21,7 @@ every person that was part of the ride was going to see the location of the driv
 
 ![279wmg](https://user-images.githubusercontent.com/44975545/56870058-a65eee80-6a09-11e9-9741-23daecf73f09.jpg)
 
-I spent quite some time designing a rating system, just to throw it away at the end of it. I swear I was doubting myself at a point,
+I spent quite some time designing a rating system, just to throw it away at the end of it. I swear I was doubting myself, at a point
 almost scrapping the whole thing and just making a funny app like the rating app from that Black Mirror episode everybody has watched.
 
 ![bla](https://user-images.githubusercontent.com/44975545/56870025-1faa1180-6a09-11e9-90dc-c6297fc4c474.jpg)
@@ -29,7 +29,7 @@ almost scrapping the whole thing and just making a funny app like the rating app
 My Magnum Opus of a regret is how I fail to address my in-app resources. No local resources, hardcoded strings and colours,
 not even a simple Firebase Database.
 
-Another name to the wall of honor (or the wall of shame) is the preplanned account system. It was going to use google accounts for initial
+Another name to the Wall of Honor( or the Wall of Shame) is the preplanned Account System. It was going to use Google Accounts for initial
 account details but features such as edit and change photo were going to persist.
 
 As a self-proclaimed GUI proffesional artist, I usually take pride in my simplistic GUI. The irony kicks in when the GUI is simple
@@ -42,13 +42,13 @@ I just needed to releive my emotions after mentioning what I mentioned, we do no
 ![75ba897b47ef6f4bf10710d76b944c45da33b890_hq](https://user-images.githubusercontent.com/44975545/56869951-5b90a700-6a08-11e9-96b8-bbae408e7b20.gif)
 
 
-But its not as Grim as I did my best to portray it (Or atleast I hope it isn't).
-I am going to pull up an Eminem on you and tell you despite everything bad about it, why I think the outcome is great.
+But its not as Grim as I did my best to portray it( Or atleast I hope it isn't) .
+I am going to pull up an Eminem on you and tell you despite everything bad about it, why I think the outcome was great.
 
 ![8 mile 1](https://user-images.githubusercontent.com/44975545/56870042-52eca080-6a09-11e9-818d-fa92d24786b0.png)
 
 -I learned how to manage the fragment stack, ultimately finishing my app with a single intent.</br>
--I eliminated my stigma towards sketchy files like Manifest and Gradle.</br>
+-I eliminated my stigma towards "sketchy" files like Manifest and Gradle.</br>
 -I learned how to implement Google API (Curse you Place Picker API).</br>
 -I got to play with different UI components.</br>
 -I became more confident transfering information through bundles.</br>
