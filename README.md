@@ -11,9 +11,10 @@ Mihail Kanchev
 
 Standing at the end of it now, like Frodo did at the top of Mount Doom after throwing the ring , I have a notch of regret at the back
 of my throat. The idea behind this hand-in was to push my personal project into its' implementation phase, combining both personal affairs and school work. Ultimately, like Frodo, I threw away most of the crucial features, that were dragging me down the mountain, greatly
-underestimating the time I was given. Unfortunately no eagles will come for me.
+underestimating the time I was given. *Unfortunately no eagles will come for me.*
 
-![giphy](https://user-images.githubusercontent.com/44975545/56869999-e5d90b00-6a08-11e9-986f-f8ad3d3dfbea.gif)
+![14817133](https://user-images.githubusercontent.com/44975545/56870275-6bf75080-6a0d-11e9-88e0-49ce33bb91c4.jpg)
+
 
 The initial concept was overambitious. The app was supposed to localize every user and when the time of the ride came, 
 every person that was part of the ride was going to see the location of the driver prior to his arival.
