@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F6AE1D</color>
+    <color name="colorPrimaryDark">#F6AE1D</color>
+    <color name="colorAccent">#F6AE1D</color>
+    <color name="accountButtonColor">#F9C620</color>
+</resources>

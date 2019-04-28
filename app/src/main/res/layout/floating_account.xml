@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        app:fab_addButtonColorNormal="#FDAD0E"
+        app:fab_addButtonColorPressed="#F7D183"
+        android:layout_margin="25dp"
+        android:stateListAnimator="@null">
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/account_image"
+            android:id="@+id/fab_action1"
+            app:fab_title="Account"
+            app:fab_colorNormal="#F9BC41"
+            app:fab_colorPressed="#FFF294"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/location_button"
+            android:id="@+id/fab_action3"
+            app:fab_title="Location"
+            app:fab_colorNormal="#F9BC41"
+            app:fab_colorPressed="#FFF294"/>
+
+    </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+</merge>

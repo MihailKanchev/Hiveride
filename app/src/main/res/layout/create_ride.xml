@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="335dp"
+        android:layout_height="80dp"
+        android:background="#EFCA7F"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:elevation="8dp"
+        android:layout_margin="10dp"
+        android:paddingTop="17dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pick_date_icon"/>
+
+        <TextView
+            android:id="@+id/date_picker"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Tap to assign date"
+            android:textSize="35dp"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="335dp"
+        android:layout_height="80dp"
+        android:background="#EFCA7F"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:elevation="8dp"
+        android:layout_margin="10dp"
+        android:paddingTop="17dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pick_time_icon"/>
+
+        <TextView
+            android:id="@+id/time_picker"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Tap to assign time"
+            android:textSize="35dp"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="335dp"
+        android:layout_height="80dp"
+        android:background="#EFCA7F"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:elevation="8dp"
+        android:layout_margin="10dp"
+        android:paddingTop="17dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pick_start_icon"/>
+
+        <TextView
+            android:id="@+id/start_location"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Starting location"
+            android:textSize="35dp"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="335dp"
+        android:layout_height="80dp"
+        android:background="#EFCA7F"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:elevation="8dp"
+        android:layout_margin="10dp"
+        android:paddingTop="17dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pick_dest_icon"/>
+
+        <TextView
+            android:id="@+id/destination_location"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Destination"
+            android:textSize="35dp"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create"
+            android:background="#BBE96C"
+            android:layout_margin="10dp"
+            android:textSize="35dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:background="#E96C6C"
+            android:layout_margin="10dp"
+            android:textSize="35dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
