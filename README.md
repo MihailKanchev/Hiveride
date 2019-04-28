@@ -26,7 +26,7 @@ almost scrapping the whole thing and just making a funny app like the rating app
 
 ![bla](https://user-images.githubusercontent.com/44975545/56870025-1faa1180-6a09-11e9-90dc-c6297fc4c474.jpg)
 
-My Magnum Opus of a regret is how I fail to adress my in-app resources. No local resources, hardcoded strings and colours,
+My Magnum Opus of a regret is how I fail to address my in-app resources. No local resources, hardcoded strings and colours,
 not even a simple Firebase Database.
 
 Another name to the wall of honor (or the wall of shame) is the preplanned account system. It was going to use google accounts for initial
